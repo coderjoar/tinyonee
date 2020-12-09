@@ -1,0 +1,13 @@
+
+
+
+black #010101;----------- common color 
+
+
+licght-blue #313841;
+
+ash #555555; light ash #898989
+
+yellow #fcdb00;
+
+white #ffffff;
